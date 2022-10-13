@@ -245,7 +245,7 @@ body {
 }
 
 .examples {
-    background: top / 100% no-repeat url("images/footer.jpg");
+    background: center / cover no-repeat fixed url("images/footer.jpg");
 }
 
 .examples * {
